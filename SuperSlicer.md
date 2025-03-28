@@ -2,6 +2,8 @@
 
 ## Commands
 
+I had to run this one just to stop from getting this error
+
 ```
 codesign --force --deep --sign - /Applications/SuperSlicer.app
 ```
