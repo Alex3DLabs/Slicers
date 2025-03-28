@@ -1,6 +1,6 @@
 # SuperSlicer
 
-[[SuperSlicer](https://www.superslicer.org)
+[SuperSlicer](https://www.superslicer.org)
 
 [SuperSlicer GitHub](https://github.com/supermerill/SuperSlicer)
 
